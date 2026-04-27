@@ -3,11 +3,15 @@
 <p>Home</p>
 <ul>
 <li>Zbrane – menu pro výběr mezi různými kategoriemi zbrani</li>
-<li>Rifle + sniper – informace o jednotlivých zbraních v kategorii sniper a rifle</li>
-<li>Pistol – informace o jednotlivých zbraních v kategorii pistol</li>
-<li>Shotgun + smg – informace o jednotlivých zbraních v kategorii shotgun a smg</li> 
+<ul>
+  <li>Rifle + sniper – informace o jednotlivých zbraních v kategorii sniper a rifle</li>
+  <li>Pistol – informace o jednotlivých zbraních v kategorii pistol</li>
+  <li>Shotgun + smg – informace o jednotlivých zbraních v kategorii shotgun a smg</li>
+</ul>
 <li>Mapy – výběr pro zobrazení kompetivních nebo ostatních map</li>
-<li>Kompetivni – informace o mapách v kategorii kompetivní</li>
-<li>Ostatni – informace o ostatních mapách</li>
+<ul>
+  <li>Kompetivni – informace o mapách v kategorii kompetivní</li>
+  <li>Ostatni – informace o ostatních mapách</li>
+</ul>
 <li>Mody – informace o herních módech ve hře</li>
 </ul>
