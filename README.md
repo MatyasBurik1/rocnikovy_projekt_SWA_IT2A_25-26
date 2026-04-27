@@ -1,0 +1,1 @@
+# rocnikovy_projekt_SWA_IT2A_25-26
