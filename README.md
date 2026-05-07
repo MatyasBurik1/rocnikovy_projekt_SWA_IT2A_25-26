@@ -14,8 +14,10 @@
   <li>Ostatni – informace o ostatních mapách</li>
 </ul>
 <li>Mody – informace o herních módech ve hře</li>
+<li>Info</li>
+<ul>
 <li>Kontakt</li>
 <li>Blog</li>
 <li>O nás</li>
-
+</ul>
 </ul>
