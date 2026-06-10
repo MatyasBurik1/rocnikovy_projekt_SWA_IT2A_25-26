@@ -1,4 +1,5 @@
 # rocnikovy_projekt_SWA_IT2A_25-26
+<a href=https://sw.opent2.com/sste/it2a/studenti/matyasburik/projekt_web/> Odkaz na stránku</a>
 <h1>Kavárna</h1>
 <ul>
   <li>O nás - informace o kavárně</li>
